@@ -1,0 +1,20 @@
+.jumbotron img{
+	width : 180px;
+}
+
+.login hr{
+	width: 250px;
+	border-top: 3px solid #999;
+	height:50px 
+}
+
+.login button{
+	width:   100px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.buatakun button{
+	width: 150px;
+	
+}
